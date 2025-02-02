@@ -1,4 +1,4 @@
-# 🏥 AI Doctor 2.0
+# 🏥 AI Doctor 
 
 ### Medical Chatbot with MultiModal LLM (Vision & Voice)
 
