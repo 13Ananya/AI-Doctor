@@ -41,12 +41,6 @@ AI Doctor is an advanced multimodal AI-powered chatbot that assists in medical d
 ✅ Develop **Gradio-based UI** for seamless interaction  
 
 ---
-
-## 📸 Demo & Working
-🎥 **Watch the project in action:** [Demo Video](https://github.com/13Ananya/AI-Doctor/Output/Working.mp4)  
-
----
-
 ## 🛠️ Installation & Setup
 ### 🔹 **1. Clone the Repository**
 ```bash
