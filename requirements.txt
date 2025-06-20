@@ -1,4 +1,12 @@
 -i https://pypi.org/simple
+gradio
+fastapi
+uvicorn
+python-dotenv
+pydub
+groq
+elevenlabs
+gtts
 aiofiles==23.2.1; python_version >= '3.7'
 annotated-types==0.7.0; python_version >= '3.8'
 anyio==4.8.0; python_version >= '3.9'
@@ -56,4 +64,3 @@ tzdata==2024.2; python_version >= '2'
 urllib3==2.3.0; python_version >= '3.9'
 uvicorn==0.34.0; sys_platform != 'emscripten'
 websockets==14.1; python_version >= '3.9'
-python-dotenv
